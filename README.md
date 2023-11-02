@@ -1,5 +1,7 @@
 # Amazon Braket Labs
 
+<img height="128" width="128" src="https://cdn.simpleicons.org/amazonaws/black/white" />
+
 We welcome community contributions for Amazon Braket and are excited to highlight them in Amazon Braket Labs. These projects are community driven and include frameworks, examples, and convenience methods built on-top of Amazon Braket. 
 
 The following projects are not provided by AWS. You are solely responsible for your use of any of these projects (including compliance with any applicable licenses and fitness of the project for your particular purpose).
@@ -13,8 +15,8 @@ TBD
 
 ### AWS provided experimental components
 
-* [Amazon Braket Julia SDK](https://github.com/awslabs/Braket.jl): This package is a Julia implementation of the Amazon Braket SDK allowing customers to access Quantum Hardware and Simulators.
-* [Cost control solution](https://github.com/aws-samples/cost-control-for-amazon-braket): This solution enables near real-time monitoring and control of costs incurred by Amazon Braket quantum tasks.
+* [Amazon Braket Julia SDK](https://github.com/awslabs/Braket.jl): This package is a Julia implementation of the Amazon Braket SDK allowing customers to access Quantum Hardware and Simulators. ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+* [Cost control solution](https://github.com/aws-samples/cost-control-for-amazon-braket): This solution enables near real-time monitoring and control of costs incurred by Amazon Braket quantum tasks. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Resources
 
@@ -22,7 +24,7 @@ TBD
 
 The Amazon Braket team maintains the following tools that you can use to develop, test, and deploy Braket components.
 
-* [Amazon Braket Build Tools](https://github.com/amazon-braket/amazon-braket-build-tools)
+* [Amazon Braket Build Tools](https://github.com/amazon-braket/amazon-braket-build-tools) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Documentation
 
