@@ -15,8 +15,8 @@ TBD
 
 ### AWS provided experimental components
 
-* [Amazon Braket Julia SDK](https://github.com/awslabs/Braket.jl): This package is a Julia implementation of the Amazon Braket SDK allowing customers to access Quantum Hardware and Simulators. ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-* [Cost control solution](https://github.com/aws-samples/cost-control-for-amazon-braket): This solution enables near real-time monitoring and control of costs incurred by Amazon Braket quantum tasks. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![Julia](https://img.shields.io/badge/julia-white?logo=julia) [Amazon Braket Julia SDK](https://github.com/awslabs/Braket.jl): This package is a Julia implementation of the Amazon Braket SDK allowing customers to access Quantum Hardware and Simulators. 
+* ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Cost control solution](https://github.com/aws-samples/cost-control-for-amazon-braket): This solution enables near real-time monitoring and control of costs incurred by Amazon Braket quantum tasks.
 
 ## Resources
 
@@ -24,7 +24,7 @@ TBD
 
 The Amazon Braket team maintains the following tools that you can use to develop, test, and deploy Braket components.
 
-* [Amazon Braket Build Tools](https://github.com/amazon-braket/amazon-braket-build-tools) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Amazon Braket Build Tools](https://github.com/amazon-braket/amazon-braket-build-tools)
 
 ### Documentation
 
