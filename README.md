@@ -9,7 +9,7 @@ The following projects are not provided by AWS. You are solely responsible for y
 
 ### Community components
 
-TBD
+* [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP) implementations and performance testings for quantum state preparation circuits.
 
 ### AWS provided experimental components
 
