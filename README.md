@@ -1,7 +1,5 @@
 # Amazon Braket Labs
 
-<img height="128" width="128" src="https://cdn.simpleicons.org/amazonaws/black/white" />
-
 We welcome community contributions for Amazon Braket and are excited to highlight them in Amazon Braket Labs. These projects are community driven and include frameworks, examples, and convenience methods built on-top of Amazon Braket. 
 
 The following projects are not provided by AWS. You are solely responsible for your use of any of these projects (including compliance with any applicable licenses and fitness of the project for your particular purpose).
