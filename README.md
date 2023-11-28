@@ -9,12 +9,12 @@ The following projects are not provided by AWS. You are solely responsible for y
 
 ### Community components
 
-* [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP): Implementations and performance testings for quantum state preparation circuits.
+* ![Python] [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP): Implementations and performance testings for quantum state preparation circuits.
 
 ### Experimental components
 
-* [Amazon Braket Julia SDK](https://github.com/amazon-braket/Braket.jl): This package is a Julia implementation of the Amazon Braket SDK allowing customers to access Quantum Hardware and Simulators.
-* [Cost control solution](https://github.com/aws-samples/cost-control-for-amazon-braket): This solution enables near real-time monitoring and control of costs incurred by Amazon Braket quantum tasks.
+* ![Julia](https://img.shields.io/badge/julia-white?logo=julia) [Amazon Braket Julia SDK](https://github.com/awslabs/Braket.jl): This package is a Julia implementation of the Amazon Braket SDK allowing customers to access Quantum Hardware and Simulators. 
+* ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Cost control solution](https://github.com/aws-samples/cost-control-for-amazon-braket): This solution enables near real-time monitoring and control of costs incurred by Amazon Braket quantum tasks.
 
 ## Resources
 
@@ -22,7 +22,7 @@ The following projects are not provided by AWS. You are solely responsible for y
 
 The Amazon Braket team maintains the following tools that you can use to develop, test, and deploy Braket components.
 
-* [Amazon Braket Build Tools](https://github.com/amazon-braket/amazon-braket-build-tools)
+* ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Amazon Braket Build Tools](https://github.com/amazon-braket/amazon-braket-build-tools)
 
 ### Documentation
 
