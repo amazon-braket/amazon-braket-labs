@@ -9,7 +9,7 @@ The following projects are not provided by AWS. You are solely responsible for y
 
 ### Community components
 
-* ![Python] [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP): Implementations and performance testings for quantum state preparation circuits.
+* ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP): Implementations and performance testings for quantum state preparation circuits.
 
 ### Experimental components
 
