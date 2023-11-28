@@ -3,12 +3,12 @@
 Thank you for your interest in contributing. Whether it's a new project, correction, or additional
 documentation, we greatly value feedback and contributions from our community.
 
-Please read through this document before submitting any issues or pull requests to ensure we have all the necessary information to effectively respond to your bug report or contribution.
+Please read through this document to ensure we have all the necessary information to effectively respond to your bug report or contribution.
 
 ## Contributing a new project
 This repository does not contain code but only a link and associated decscription to other projects. We are happy to consider adding your project so long as it runs on Amazon Braket.
 
-To submit a proposal please send an email to amazon-braket-labs@amazon.com.
+To submit a proposal please send an email to amazon-braket-labs@amazon.com. We will use your email to setup time to discuss you project and ensure it has the right positioning in the context of Amazon Braket.
 
 ## Reporting corrections
 
@@ -23,8 +23,8 @@ opensource-codeofconduct@amazon.com with any additional questions or comments.
 
 
 ## Security issue notifications
-If you discover a potential security issue in this project we ask that you notify AWS/Amazon Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/). Please do **not** create a public github issue.
-
+We take all security reports seriously. When we receive such reports, we will investigate and subsequently address any potential vulnerabilities as quickly as possible. If you discover a potential security issue in this project, please notify AWS/Amazon Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/)
+or directly via email to [AWS Security](mailto:aws-security@amazon.com). Please do *not* create a public GitHub issue in this project.
 
 ## Licensing
 
