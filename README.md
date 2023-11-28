@@ -11,9 +11,9 @@ The following projects are not provided by AWS. You are solely responsible for y
 
 * [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP): Implementations and performance testings for quantum state preparation circuits.
 
-### AWS provided experimental components
+### Experimental components
 
-* [Amazon Braket Julia SDK](https://github.com/awslabs/Braket.jl): This package is a Julia implementation of the Amazon Braket SDK allowing customers to access Quantum Hardware and Simulators.
+* [Amazon Braket Julia SDK](https://github.com/amazon-braket/Braket.jl): This package is a Julia implementation of the Amazon Braket SDK allowing customers to access Quantum Hardware and Simulators.
 * [Cost control solution](https://github.com/aws-samples/cost-control-for-amazon-braket): This solution enables near real-time monitoring and control of costs incurred by Amazon Braket quantum tasks.
 
 ## Resources
