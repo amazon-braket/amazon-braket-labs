@@ -9,7 +9,7 @@ We welcome community contributions for Amazon Braket and are excited to highligh
 
 ### Community components
 
-* * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Bloqade](https://github.com/QuEraComputing/bloqade-python): Bloqade is an SDK designed to make writing and analyzing the results of analog quantum programs on QuEra's neutral atom quantum computers as seamless and flexible as possible.
+* ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Bloqade](https://github.com/QuEraComputing/bloqade-python): Bloqade is an SDK designed to make writing and analyzing the results of analog quantum programs on QuEra's neutral atom quantum computers as seamless and flexible as possible.
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP): Implementations and performance testings for quantum state preparation circuits.
 
 ### Experimental components
