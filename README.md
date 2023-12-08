@@ -12,6 +12,7 @@ We welcome community contributions for Amazon Braket and are excited to highligh
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Bloqade](https://github.com/QuEraComputing/bloqade-python): Bloqade is an SDK designed to make writing and analyzing the results of analog quantum programs on QuEra's neutral atom quantum computers as seamless and flexible as possible.
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [OpenQAOA](https://github.com/entropicalabs/openqaoa): A python library from EntropicaLabs for quantum optimization using QAOA on Quantum computers and Quantum computer simulators.
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP): Implementations and performance testings for quantum state preparation circuits.
+* ![Julia](https://github.com/amazon-braket/tensor-network-ahs) [Tensor Network for Analog Hamiltonian Simulation]: This package implements a tensor network based algorithm for simulating Rydberg atom dynamics.
 
 ### Experimental components
 
