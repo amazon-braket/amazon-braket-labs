@@ -2,7 +2,7 @@
 
 We welcome community contributions for Amazon Braket and are excited to highlight them in Amazon Braket Labs. These projects are community driven and include frameworks, examples, and convenience methods built on-top of Amazon Braket. 
 
-> :warning: **The following projects are not provided by AWS. You are solely responsible for your use of any of these projects (including compliance with any applicable licenses and fitness of the project for your particular purpose).** :warning:
+> :warning: **The following includes projects that are not provided by AWS. You are solely responsible for your use of those projects (including compliance with any applicable licenses and fitness of the project for your particular purpose).** :warning:
 
 
 ## Catalog
