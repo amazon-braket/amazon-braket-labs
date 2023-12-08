@@ -12,10 +12,12 @@ We welcome community contributions for Amazon Braket and are excited to highligh
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Bloqade](https://github.com/QuEraComputing/bloqade-python): Bloqade is an SDK designed to make writing and analyzing the results of analog quantum programs on QuEra's neutral atom quantum computers as seamless and flexible as possible.
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [OpenQAOA](https://github.com/entropicalabs/openqaoa): A python library from EntropicaLabs for quantum optimization using QAOA on Quantum computers and Quantum computer simulators.
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP): Implementations and performance testings for quantum state preparation circuits.
+* ![Julia](https://img.shields.io/badge/julia-white?logo=julia) [Tensor Network for Analog Hamiltonian Simulation](https://github.com/amazon-braket/tensor-network-ahs): This package implements a tensor network based algorithm for simulating Rydberg atom dynamics.
 
 ### Experimental components
 
 * ![Julia](https://img.shields.io/badge/julia-white?logo=julia) [Amazon Braket Julia SDK](https://github.com/awslabs/Braket.jl): This package is a Julia implementation of the Amazon Braket SDK allowing customers to access Quantum Hardware and Simulators. 
+* ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [AutoQASM](https://github.com/amazon-braket/amazon-braket-sdk-python/tree/feature/autoqasm/src/braket/experimental/autoqasm): This experimental module offers a new quantum-imperative programming experience embedded in Python for developing quantum programs.
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Cost control solution](https://github.com/aws-samples/cost-control-for-amazon-braket): This solution enables near real-time monitoring and control of costs incurred by Amazon Braket quantum tasks.
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [AutoQASM](https://github.com/amazon-braket/amazon-braket-sdk-python/tree/feature/autoqasm/src/braket/experimental/autoqasm): This experimental module offers a new quantum-imperative programming experience embedded in Python for developing quantum programs.
 
