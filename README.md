@@ -14,6 +14,7 @@ We welcome community contributions for Amazon Braket and are excited to highligh
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [OpenQAOA](https://github.com/entropicalabs/openqaoa): A python library from EntropicaLabs for quantum optimization using QAOA on Quantum computers and Quantum computer simulators.
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Quantum state preparation](https://github.com/guikaiwen/qubit_efficient_QSP): Implementations and performance testings for quantum state preparation circuits.
 * ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [Tangelo](https://github.com/goodchemistryco/Tangelo): Quantum chemistry workflows for quantum computers. For examples on how to use with Braket see this [tutorial](https://github.com/goodchemistryco/Tangelo-Examples/blob/main/examples/workflow_basics/2.qpu_connection.ipynb) and this [AWS Quantum blog post](https://aws.amazon.com/blogs/quantum-computing/exploring-quantum-chemistry-applications-with-tangelo-and-qemist-cloud-using-amazon-braket/).
+* ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=ffdd54) [qoqo-for-braket](https://github.com/HQSquantumsimulations/qoqo-for-braket): A backend for the [qoqo](https://github.com/HQSquantumsimulations/qoqo) quantum computing toolkit that lets users run qoqo quantum programs on braket.
 
 ### Experimental components
 
